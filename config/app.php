@@ -78,8 +78,8 @@ return [
      *   You should treat it as extremely sensitive data.
      */
     'Security' => [
-        'salt' => env('SECURITY_SALT'),
-    ],
+    'salt' => 'a8f9d2c7b5e4f6g8h1j3k9m2x7z5p4q6',
+],
 
     /*
      * Apply timestamps with the last modified time to static assets (js, css, images).
